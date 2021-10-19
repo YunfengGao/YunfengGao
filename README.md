@@ -1,7 +1,14 @@
 ### Hi, YunfengGao there 👋
-![](https://github-readme-stats.vercel.app/api?username=YunfengGao&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunfengGao&layout=compact&langs_count=5&card_width=445)
+
+<a href="https://github.com/YunfengGao">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=YunfengGao&show_icons=true" alt="YunfengGao's github stats"/>
+</a>
+
+<a href="https://github.com/YunfengGao">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunfengGao&layout=compact&langs_count=5&card_width=445" alt="YunfengGao's Top Langs"/>
+</a>
+
 <!--
 **YunfengGao/YunfengGao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
